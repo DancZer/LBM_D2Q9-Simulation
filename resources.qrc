@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="icon_pause">icons/pause.png</file>
+        <file alias="icon_play">icons/start.png</file>
+        <file alias="icon_stop">icons/stop.png</file>
+        <file alias="icon_undo">icons/undo.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="axis">icons/axis.png</file>
+    </qresource>
+    <qresource prefix="/tools">
+        <file alias="fill">icons/fill.png</file>
+        <file alias="line">icons/line.png</file>
+        <file alias="pencil">icons/pencil.png</file>
+    </qresource>
+</RCC>
